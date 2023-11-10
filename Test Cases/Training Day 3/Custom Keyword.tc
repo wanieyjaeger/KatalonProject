@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Custom Keyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc65da1d-4313-4048-b1f2-57709c2ddd2d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7e44e450-baff-422f-b767-9ad35fc2c720</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Syaz'</defaultValue>
+      <description></description>
+      <id>7e44e450-baff-422f-b767-9ad35fc2c720</id>
+      <masked>false</masked>
+      <name>masukNama</name>
+   </variable>
+</TestCaseEntity>

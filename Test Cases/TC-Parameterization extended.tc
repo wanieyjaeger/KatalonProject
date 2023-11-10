@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Parameterization extended</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8724a72f-0b5a-47a0-be49-5c330d4479e4</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>a70da981-8e1a-4839-918f-2dc49b489f80</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/CuraDay6</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>a70da981-8e1a-4839-918f-2dc49b489f80</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>bookingDate</value>
+      <variableId>9d1d4867-04b8-41ac-b48b-eebe2e32e4d6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a70da981-8e1a-4839-918f-2dc49b489f80</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>comment</value>
+      <variableId>4a8280be-0866-4bdf-a2ba-9f2ff7ed1616</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'20/12/2023'</defaultValue>
+      <description></description>
+      <id>9d1d4867-04b8-41ac-b48b-eebe2e32e4d6</id>
+      <masked>false</masked>
+      <name>bookingDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'comment A'</defaultValue>
+      <description></description>
+      <id>4a8280be-0866-4bdf-a2ba-9f2ff7ed1616</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Job Titles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f81d230-1ed8-4bf3-bafb-f837c9e387c4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b1bdbc01-829b-4ad2-9a05-279929a31846</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HR Associate,HR Manager'</defaultValue>
+      <description></description>
+      <id>b1bdbc01-829b-4ad2-9a05-279929a31846</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

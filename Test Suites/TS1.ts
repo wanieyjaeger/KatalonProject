@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>41a7f995-800a-4442-b8e8-5f27930f9706</testSuiteGuid>
+   <testCaseLink>
+      <guid>3a984663-520d-41fd-901d-c696acb57629</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Training Day 4/Add Job Titles</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fa1336a2-c6ff-4408-a1b3-5008b8d3a6cd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData2</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>fa1336a2-c6ff-4408-a1b3-5008b8d3a6cd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>jobTitle</value>
+         <variableId>b65c253a-b34c-4d88-be63-b53ad4be6545</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa1336a2-c6ff-4408-a1b3-5008b8d3a6cd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>jobDescription</value>
+         <variableId>35078aa4-eaf3-4f60-a43a-423d2622a5dd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa1336a2-c6ff-4408-a1b3-5008b8d3a6cd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>note</value>
+         <variableId>509a1c16-60ab-4aca-af2b-4d6fffb04a54</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC- Variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f752b44-c9bb-460c-a956-4c8123974391</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4a5fdbb-766e-4bf4-b179-ce6176093bef</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>f4a5fdbb-766e-4bf4-b179-ce6176093bef</id>
+      <masked>false</masked>
+      <name>vars</name>
+   </variable>
+</TestCaseEntity>

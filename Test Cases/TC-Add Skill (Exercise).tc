@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Add Skill (Exercise)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0faed136-ed92-424a-9840-199075005e03</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b6e13e34-0e99-438f-bfc6-d04c7118a7fd</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Orange Day 06</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b6e13e34-0e99-438f-bfc6-d04c7118a7fd</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>skill</value>
+      <variableId>b865413a-18a4-4096-ae0b-837852b7fb85</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b6e13e34-0e99-438f-bfc6-d04c7118a7fd</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>skillDescription</value>
+      <variableId>6fe9902a-34da-4c6e-9bdf-6395df27d00a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SkillOne'</defaultValue>
+      <description></description>
+      <id>b865413a-18a4-4096-ae0b-837852b7fb85</id>
+      <masked>false</masked>
+      <name>skill</name>
+   </variable>
+   <variable>
+      <defaultValue>'SkillOne desc'</defaultValue>
+      <description></description>
+      <id>6fe9902a-34da-4c6e-9bdf-6395df27d00a</id>
+      <masked>false</masked>
+      <name>skillDescription</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 02 - Search Funtionality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>603c126a-67ef-4a42-8877-40eebd12393d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51900455-61c6-4da6-9b96-bd08cd9c28a4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bb823344-fff7-440e-9dc2-7c67a1b62a3e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>546bb8cc-f2ab-4ee2-8ecc-b5ceb43cde07</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'customer'</defaultValue>
+      <description></description>
+      <id>51900455-61c6-4da6-9b96-bd08cd9c28a4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'fcttOx1e+dws0mP0AWb2uMRTnZbRfS0W\r\n'</defaultValue>
+      <description></description>
+      <id>bb823344-fff7-440e-9dc2-7c67a1b62a3e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'flying ninja'</defaultValue>
+      <description></description>
+      <id>546bb8cc-f2ab-4ee2-8ecc-b5ceb43cde07</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 04 -Checkout (new)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49fa5d8f-2bf5-43fd-b1ea-835fa00ee13f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a4197b49-c422-44fe-b950-a22f9f162e4f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Malaysia'</defaultValue>
+      <description></description>
+      <id>a4197b49-c422-44fe-b950-a22f9f162e4f</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Flying Ninja</name>
+   <tag></tag>
+   <elementGuidId>e3dec8ea-36e0-4516-a519-443549cf2ca0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.entry-title > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-54']/header/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>35467567-39d7-4cdc-a481-503b8a1d16ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://cms.demo.katalon.com/product/flying-ninja/</value>
+      <webElementGuid>14a3a851-99d4-43c0-b678-effda82024bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>bookmark</value>
+      <webElementGuid>94ad6e7e-cba4-40c1-9a80-ee6cdccdd1e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Flying Ninja</value>
+      <webElementGuid>81ca7a03-4001-4db6-b3d4-4e81d28ff5bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-54&quot;)/header[@class=&quot;entry-header&quot;]/h2[@class=&quot;entry-title&quot;]/a[1]</value>
+      <webElementGuid>980963e3-c96f-4c32-badf-fefdd310df56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-54']/header/h2/a</value>
+      <webElementGuid>5914f743-ec33-47a7-abc2-3135f48d946c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Flying Ninja')]</value>
+      <webElementGuid>7996edbb-8039-4248-8c14-5733329fe583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='flying ninja'])[1]/following::a[1]</value>
+      <webElementGuid>ff9ff91e-3ecf-43ac-8a53-a7b489d67a35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='on Flying Ninja'])[1]/preceding::a[2]</value>
+      <webElementGuid>e23a43d3-34cd-4a40-a98e-4ea811f21333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Flying Ninja']/parent::*</value>
+      <webElementGuid>fe144955-01ab-4e89-944c-2dc5a240bec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://cms.demo.katalon.com/product/flying-ninja/')]</value>
+      <webElementGuid>4f6773d1-d40e-47a9-91f0-40f879395872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>ccf601d8-a3bb-4212-bef1-d9c999249678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://cms.demo.katalon.com/product/flying-ninja/' and (text() = 'Flying Ninja' or . = 'Flying Ninja')]</value>
+      <webElementGuid>96935759-70e3-4bfd-97e1-70fe71176c5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

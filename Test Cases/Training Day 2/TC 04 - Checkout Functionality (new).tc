@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 04 - Checkout Functionality (new)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>096f3f43-9c31-48f9-ab78-e6df5cd30a16</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>274e824d-8ee0-4beb-a4f0-c7ea8d76488b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Malaysia'</defaultValue>
+      <description></description>
+      <id>274e824d-8ee0-4beb-a4f0-c7ea8d76488b</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+</TestCaseEntity>
